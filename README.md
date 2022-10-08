@@ -42,3 +42,16 @@ The following analysis will be conducted:
 
   The lot summary shows that the lot 1 and 2 meet the design specification but not the lot 3, since the variance of lot 3 is 170.29 which is way more than 100 pounds per square inch. 
 
+# Deliverable 3
+
+## T-Tests on Suspension Coils
+
+<img width="427" alt="Screen Shot 2022-10-07 at 10 07 39 PM" src="https://user-images.githubusercontent.com/107653012/194682737-bdd49178-ba34-4f11-90a5-687f5e35559b.png">
+
+<img width="421" alt="Screen Shot 2022-10-07 at 10 07 59 PM" src="https://user-images.githubusercontent.com/107653012/194682742-164d1058-89fb-4933-a314-7b11fd41c31f.png">
+
+<img width="419" alt="Screen Shot 2022-10-07 at 10 08 14 PM" src="https://user-images.githubusercontent.com/107653012/194682764-20246d46-d564-43d5-84d8-0f4036a1cc8f.png">
+
+<img width="425" alt="Screen Shot 2022-10-07 at 10 08 24 PM" src="https://user-images.githubusercontent.com/107653012/194682786-b8b47aaf-b182-4127-bc75-47bd641b8cde.png">
+
+The above images show the t-tests we performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. According to our findings, only lot 3 is statiscally different from the population mean of 1500 pounds per square inch. 
